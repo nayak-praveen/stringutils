@@ -1,4 +1,4 @@
-package stringcase
+package stringutils
 
 
 import "strings"
